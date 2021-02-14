@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\options.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\layout\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startgame.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\layout\\startgame.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]

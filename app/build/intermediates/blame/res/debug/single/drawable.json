@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_start.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\drawable\\button_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_quit.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\drawable\\button_quit.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_about.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\drawable\\button_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_options.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\drawable\\button_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_help.xml",
+        "source": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\drawable\\button_help.xml"
+    }
+]

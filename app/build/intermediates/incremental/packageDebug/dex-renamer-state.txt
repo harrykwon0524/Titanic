@@ -1,0 +1,4 @@
+#Tue Jan 02 00:25:26 KST 2018
+base.0=C\:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 45,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 60,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\harry\\Desktop\\Bluefruit_LE_Connect_Android-master(2)\\StarWars (3)\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]

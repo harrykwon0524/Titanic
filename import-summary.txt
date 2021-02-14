@@ -1,0 +1,67 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\harry\Desktop\Bluefruit_LE_Connect_Android-master(2)\StarWars (3)
+                                                                      -   
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* game_image\
+* game_image\boat2.png
+* game_image\boat3.png
+* game_image\boat4.png
+* game_image\boat5.png
+* game_image\images0IQU45T7.jpg
+* game_image\images9J8H7NQG.jpg
+* game_image\imagesEBY1X6Y4.jpg
+* game_image\imagesEXCB4ZUC.jpg
+* game_image\imagesPI3EOHWB.jpg
+* game_image\imagesSCQPP11R.jpg
+* game_image\imagesU5HHO448.jpg
+* game_image\load-back.png
+* game_image\people1.png
+* game_image\people2.png
+* game_image\tube1.png
+* game_image\wave2.jpg
+* game_image\wave3.jpg
+* game_image\wave4.png
+* game_image\wave5.png
+* game_image\wave6.png
+* game_image\침몰1.jpg
+* game_image\침몰2.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
